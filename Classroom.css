@@ -1,40 +1,13 @@
-#header-rect {
-    position: absolute;
-    /*z-index: auto;*/
-    top: 0;
-    left: 0;
-    padding: 10px;
-    width: 120%;
-    height: 44px;
-    background: green;
-    
-}
-
-#main-site-title {
-    padding: 10px;
-    color: white;
-    position: absolute;
-    top: -15px;
-    left: 10px;
-    font-family: 'Gamja Flower', cursive;
-    
-    /*z-index: 1;*/
-}
-
 .body{
     background-color: #afafaf;
-}
-
-.Welcome{
-    color: red;
 }
 
 .container-fluid{
     box-shadow: 1px 5px 15px;
     border-style: none;
+    position: fixed;
     
 }
-
 
 url("Teacher.png"()
 
